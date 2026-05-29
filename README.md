@@ -27,17 +27,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🥊 **Boxing League** | Live sports streaming & analytics with HLS/DASH adaptive bitrate | React, Node.js, Azure |
-| 🗣️ **Voice Translation** | Real-time multilingual calls across 50+ languages | Azure, SignalR, WebSockets |
-| 🧾 **Digital Accounting** | AI-powered invoice & document extraction synced to Tally | Node.js, MongoDB, AI Models |
-| 🏥 **Healthcare Platform** | Appointments & video consultations for 5k+ users | Express, JWT, MongoDB |
-
----
-
 ### 🌐 Connect With Me
 
 <p align="left">
@@ -55,15 +44,6 @@
 </p>
 
 📧 deepikarawal1435@gmail.com &nbsp;|&nbsp; 📱 8708794625
-
----
-
-### ⚡ GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepika062&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepika062&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 ---
 
