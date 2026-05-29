@@ -5,7 +5,7 @@
   Passionate about creating modern, responsive, and AI-powered web applications with clean UI & scalable backend systems.
 </p>
 
-<img align="right" alt="coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 👩‍💻 About Me
 - 💼 Full Stack Developer @ **SDLC Corp**, building impactful products
