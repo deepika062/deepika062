@@ -21,10 +21,12 @@
 
 ### 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,aws,azure,docker,git,github,vscode" />
-</p>
-
+🚀 Tech Stack
+Frontend: React.js · Next.js · JavaScript (ES6+) · TypeScript · TailwindCSS · HTML5 · CSS3
+Backend: Node.js · Express.js · REST APIs · SignalR · WebSockets · JWT
+Databases: MongoDB · MySQL · Firebase · MongoDB
+Cloud & DevOps: Azure · AWS · DigitalOcean · Docker · Nginx · GitHub Actions · CI/CD
+Tools: Git · Postman · VS Code · Kafka ·  Azure Communication Services
 ---
 
 ### 🌐 Connect With Me
