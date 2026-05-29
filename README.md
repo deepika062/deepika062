@@ -45,48 +45,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### 🧾 Naimaa Footwear Management System
-> Full-stack invoice & inventory management platform for footwear businesses.
-
-- 📦 Product & inventory management  
-- 🧾 Invoice generation system  
-- 🔐 Secure backend APIs  
-- ⚡ Built with MERN Stack  
-
----
-
-### 🌐 AI-Driven Financial Workflow Automation
-> Integrated AI models to automate financial document workflows.
-
-- 🤖 Smart automation features  
-- 📊 Optimized processing efficiency  
-- ☁️ Cloud-integrated architecture  
-
----
-
-### ⚡ Real-Time Scalable Applications
-> Built systems supporting 10k+ users using WebSockets & scalable backend design.
-
-- 🔄 Live real-time communication  
-- 🚀 High-performance backend services  
-- ☁️ Azure-based deployments  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepika062&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepika062&theme=tokyonight" alt="streak" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
