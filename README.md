@@ -22,28 +22,9 @@
 ---
 
 ## 🚀 Tech Stack
-
-### 💻 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,aws,azure,docker,git,github,vscode" />
 </p>
-
-### ⚙️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,nginx,vercel" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
