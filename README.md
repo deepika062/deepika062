@@ -10,7 +10,7 @@
 ### 👩‍💻 About Me
 
 - 💼 Full Stack Developer @ SDLC Corp, building impactful products
-- ⚡ Experienced in real-time systems — WebSockets, SignalR & Azure
+- ⚡ Experienced in real-time systems - WebSockets, SignalR & Azure
 - 🤖 Exploring AI integrations & automation workflows
 - ☁️ Interested in Cloud, DevOps & deployment optimization
 - 🌱 Currently learning advanced system design & DevOps practices
