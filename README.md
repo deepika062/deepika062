@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepika Rawal</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | Building Scalable Real-Time Applications</h3>
+<h3 align="center">Full Stack MERN Developer | Building Scalable Real-Time Applications</h3>
 
 <p align="center">
   Passionate about creating modern, responsive, and AI-powered web applications with clean UI & scalable backend systems.
@@ -8,8 +8,9 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 👩‍💻 About Me
-- 💼 Full Stack Developer @ **SDLC Corp**, building impactful products
-- ⚡ Experienced in **real-time systems** — WebSockets, SignalR & Azure
+
+- 💼 Full Stack Developer @ SDLC Corp, building impactful products
+- ⚡ Experienced in real-time systems — WebSockets, SignalR & Azure
 - 🤖 Exploring AI integrations & automation workflows
 - ☁️ Interested in Cloud, DevOps & deployment optimization
 - 🌱 Currently learning advanced system design & DevOps practices
@@ -21,12 +22,12 @@
 
 ### 🚀 Tech Stack
 
-🚀 Tech Stack
-Frontend: React.js · Next.js · JavaScript (ES6+) · TypeScript · TailwindCSS · HTML5 · CSS3
-Backend: Node.js · Express.js · REST APIs · SignalR · WebSockets · JWT
-Databases: MongoDB · MySQL · Firebase · MongoDB
-Cloud & DevOps: Azure · AWS · DigitalOcean · Docker · Nginx · GitHub Actions · CI/CD
-Tools: Git · Postman · VS Code · Kafka ·  Azure Communication Services
+- Frontend: React.js • Next.js • JavaScript (ES6+) • TypeScript • TailwindCSS • HTML5 • CSS3
+- Backend: Node.js • Express.js • REST APIs • SignalR • WebSockets • JWT
+- Databases: MongoDB • MySQL • Firebase
+- Cloud & DevOps: Azure • AWS • DigitalOcean • Docker • Nginx • GitHub Actions • CI/CD
+- Tools: Git • Postman • VS Code • Kafka • Azure Communication Services
+
 ---
 
 ### 🌐 Connect With Me
@@ -50,6 +51,7 @@ Tools: Git · Postman · VS Code · Kafka ·  Azure Communication Services
 ---
 
 ### ✨ Fun Fact
+
 > *"Code is not just about functionality, it's about creating experiences."* 💜
 
 <p align="left">
